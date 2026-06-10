@@ -24,4 +24,3 @@ FastAPI · MySQL · Docker · ESP32 · BLE · MQTT · KiCad · Onshape · PyTorc
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/abdulmuiz-al-husseini-73954639b/
-- Resume: add link later
