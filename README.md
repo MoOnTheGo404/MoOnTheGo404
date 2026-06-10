@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Abdulmuiz Al-Husseini
@@ -119,5 +118,4 @@ Strongest areas:
 Thanks for visiting my profile.
 
 </div>
-```
 
