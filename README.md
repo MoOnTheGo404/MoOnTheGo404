@@ -70,6 +70,34 @@ A C++ ray tracing engine supporting realistic lighting, geometry intersection, a
 
 ---
 
+
+## AI / Machine Learning Projects
+
+### Semantic Segmentation Architecture Comparison
+
+**PyTorch · Computer Vision · Deep Learning · Pascal VOC**
+
+Compared FCN-VGG, U-Net, and DeepLab-style semantic segmentation architectures on Pascal VOC. Built training pipelines with data augmentation, transfer learning, mixed precision, GPU acceleration, and mIoU-based evaluation.
+
+### Steam Playtime Prediction
+
+**Python · Scikit-Learn · Pandas · Recommender Systems**
+
+Developed a machine learning system to predict Steam playtime using 500K+ reviews, 350K users, and 994 games. Engineered collaborative, content-based, and text-derived features, then evaluated regression, bias baseline, and matrix factorization models.
+
+### Ghost Composer
+
+**Python · MIDI · Generative AI · Sequence Modeling**
+
+Built a symbolic music generation pipeline using MIDI data from expressive piano performances. Developed preprocessing, event modeling, probabilistic sequence generation, and melody-conditioned accompaniment generation.
+
+### Computer Vision Algorithms
+
+**Python · NumPy · OpenCV · PyTorch**
+
+Implemented computer vision algorithms including photometric stereo, feature matching, epipolar geometry, Bag-of-Words image classification, SIFT/KNN classification, and CNN training.
+
+
 ## Technical Skills
 
 <div align="center">
