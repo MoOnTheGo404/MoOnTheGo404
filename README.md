@@ -97,6 +97,7 @@ Built a symbolic music generation pipeline using MIDI data from expressive piano
 
 Implemented computer vision algorithms including photometric stereo, feature matching, epipolar geometry, Bag-of-Words image classification, SIFT/KNN classification, and CNN training.
 
+---
 
 ## Technical Skills
 
