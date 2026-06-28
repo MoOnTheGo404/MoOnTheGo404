@@ -3,7 +3,7 @@
 # Abdulmuiz Al-Husseini
 
 **Computer Engineering Graduate @ UC San Diego**  
-Software Engineering · Embedded Systems · IoT · Full-Stack Development · Applied AI/ML
+Software Engineering · Embedded Systems · IoT · Full-Stack Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmuiz-al-husseini-73954639b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moezhussainy@gmail.com)
@@ -14,9 +14,9 @@ Software Engineering · Embedded Systems · IoT · Full-Stack Development · App
 
 ## About Me
 
-I'm a Computer Engineering graduate from UC San Diego interested in building practical systems across software, embedded devices, full-stack applications, and applied AI/ML.
+I'm a Computer Engineering graduate from UC San Diego interested in building practical systems across software, embedded devices, full-stack applications, and hardware-software products.
 
-My work spans embedded systems, IoT platforms, full-stack web development, systems-level software, computer vision, recommender systems, and generative AI projects. I enjoy projects that combine strong engineering fundamentals with real-world applications, whether that means connecting software to hardware, building backend systems, or experimenting with machine learning models.
+My work spans embedded systems, IoT platforms, full-stack web development, systems-level software, computer graphics, Unity/XR development, and AI/ML coursework projects. I enjoy projects that combine strong engineering fundamentals with real-world applications, whether that means connecting software to hardware, building backend systems, maintaining large codebases, or experimenting with machine learning models.
 
 ---
 
@@ -130,18 +130,20 @@ Implemented computer vision algorithms including photometric stereo, feature mat
 
 ## Currently Looking For
 
-I'm currently looking for opportunities across software engineering, embedded systems, IoT, full-stack development, firmware, Unity/game development, and applied AI/ML.
+I'm currently looking for opportunities across software engineering, embedded systems, IoT, full-stack development, firmware, Unity/game development, and hardware-software product engineering.
 
-
+```
 
 Strongest areas:
 
-Full-stack and backend development
-Embedded systems and ESP32 development
-IoT platforms and hardware-software integration
-Systems-level software and large-codebase development
-Computer vision and applied machine learning
-Unity, XR/VR/AR, and interactive 3D systems
+* Full-stack and backend development
+* Embedded systems and ESP32 development
+* IoT platforms and hardware-software integration
+* Systems-level software and large-codebase development
+* Computer graphics and Unity/XR/VR/AR systems
+* AI/ML coursework projects in computer vision, recommender systems, and generative modeling
+
+```
 
 ---
 
@@ -150,4 +152,4 @@ Unity, XR/VR/AR, and interactive 3D systems
 Thanks for visiting my profile.
 
 </div>
-
+```
