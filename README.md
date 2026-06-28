@@ -3,7 +3,7 @@
 # Abdulmuiz Al-Husseini
 
 **Computer Engineering Graduate @ UC San Diego**  
-Embedded Systems · Full-Stack Development · IoT · Hardware-Software Product Engineering
+Software Engineering · Embedded Systems · IoT · Full-Stack Development · Applied AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmuiz-al-husseini-73954639b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moezhussainy@gmail.com)
@@ -14,9 +14,9 @@ Embedded Systems · Full-Stack Development · IoT · Hardware-Software Product E
 
 ## About Me
 
-I'm a Computer Engineering graduate from UC San Diego interested in building systems that connect software, hardware, and real-world products.
+I'm a Computer Engineering graduate from UC San Diego interested in building practical systems across software, embedded devices, full-stack applications, and applied AI/ML.
 
-My strongest work is in embedded systems, IoT platforms, full-stack development, PCB design, mobile-connected devices, and systems-level software. I enjoy projects that require both low-level technical detail and end-to-end product thinking.
+My work spans embedded systems, IoT platforms, full-stack web development, systems-level software, computer vision, recommender systems, and generative AI projects. I enjoy projects that combine strong engineering fundamentals with real-world applications, whether that means connecting software to hardware, building backend systems, or experimenting with machine learning models.
 
 ---
 
@@ -70,29 +70,30 @@ A C++ ray tracing engine supporting realistic lighting, geometry intersection, a
 
 ---
 
-
 ## AI / Machine Learning Projects
 
-### Semantic Segmentation Architecture Comparison
-
+### Semantic Segmentation Architecture Comparison  
 **PyTorch · Computer Vision · Deep Learning · Pascal VOC**
 
 Compared FCN-VGG, U-Net, and DeepLab-style semantic segmentation architectures on Pascal VOC. Built training pipelines with data augmentation, transfer learning, mixed precision, GPU acceleration, and mIoU-based evaluation.
 
-### Steam Playtime Prediction
+---
 
+### Steam Playtime Prediction  
 **Python · Scikit-Learn · Pandas · Recommender Systems**
 
 Developed a machine learning system to predict Steam playtime using 500K+ reviews, 350K users, and 994 games. Engineered collaborative, content-based, and text-derived features, then evaluated regression, bias baseline, and matrix factorization models.
 
-### Ghost Composer
+---
 
+### Ghost Composer  
 **Python · MIDI · Generative AI · Sequence Modeling**
 
 Built a symbolic music generation pipeline using MIDI data from expressive piano performances. Developed preprocessing, event modeling, probabilistic sequence generation, and melody-conditioned accompaniment generation.
 
-### Computer Vision Algorithms
+---
 
+### Computer Vision Algorithms  
 **Python · NumPy · OpenCV · PyTorch**
 
 Implemented computer vision algorithms including photometric stereo, feature matching, epipolar geometry, Bag-of-Words image classification, SIFT/KNN classification, and CNN training.
@@ -106,12 +107,16 @@ Implemented computer vision algorithms including photometric stereo, feature mat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square)
 ![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat-square)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
@@ -125,19 +130,18 @@ Implemented computer vision algorithms including photometric stereo, feature mat
 
 ## Currently Looking For
 
-I'm currently looking for software engineering, embedded systems, IoT, firmware, and hardware-software product engineering opportunities.
+I'm currently looking for opportunities across software engineering, embedded systems, IoT, full-stack development, firmware, Unity/game development, and applied AI/ML.
 
-```
+
 
 Strongest areas:
 
-* Embedded systems and ESP32 development
-* Full-stack IoT platforms
-* Hardware-software integration
-* PCB design and prototyping
-* Systems-level software
-
-```
+Full-stack and backend development
+Embedded systems and ESP32 development
+IoT platforms and hardware-software integration
+Systems-level software and large-codebase development
+Computer vision and applied machine learning
+Unity, XR/VR/AR, and interactive 3D systems
 
 ---
 
