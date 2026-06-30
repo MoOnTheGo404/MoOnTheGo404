@@ -152,4 +152,3 @@ Strongest areas:
 Thanks for visiting my profile.
 
 </div>
-```
